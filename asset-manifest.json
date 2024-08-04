@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-geoposition/static/css/main.e6c13ad2.css",
+    "main.js": "/my-geoposition/static/js/main.3c87cced.js",
+    "static/js/453.f2feb8ed.chunk.js": "/my-geoposition/static/js/453.f2feb8ed.chunk.js",
+    "index.html": "/my-geoposition/index.html",
+    "main.e6c13ad2.css.map": "/my-geoposition/static/css/main.e6c13ad2.css.map",
+    "main.3c87cced.js.map": "/my-geoposition/static/js/main.3c87cced.js.map",
+    "453.f2feb8ed.chunk.js.map": "/my-geoposition/static/js/453.f2feb8ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3c87cced.js"
+  ]
+}
